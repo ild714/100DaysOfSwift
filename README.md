@@ -19,3 +19,5 @@ Type annotations
 SCORE: 6/6
 Simple types: Summary
 SCORE: 6/6
+
+Day 2 – arrays, dictionaries, sets, and enums
