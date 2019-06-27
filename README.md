@@ -47,3 +47,5 @@ Complex types: Summary
 SCORE: 4/6
 
 Day 3 – operators and conditions
+
+Day 4 – loops, loops, and more loops
