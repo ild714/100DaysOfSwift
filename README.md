@@ -48,4 +48,26 @@ SCORE: 4/6
 
 Day 3 – operators and conditions
 
+Operators and conditions
+Arithmetic operators
+SCORE: 6/6
+Operator overloading
+SCORE: 8/12
+Compound assignment operators
+SCORE: 6/6
+Comparison operators
+SCORE: 5/6
+Conditions
+SCORE: 9/12
+Combining conditions
+SCORE: 10/12
+The ternary operator
+SCORE: 11/12
+Switch statements
+SCORE: 5/6
+Range operators
+SCORE: 6/6
+Operators and conditions: Summary
+SCORE: 9/12
+
 Day 4 – loops, loops, and more loops
