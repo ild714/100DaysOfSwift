@@ -22,4 +22,28 @@ SCORE: 6/6
 
 Day 2 – arrays, dictionaries, sets, and enums
 
+Complex Types
+Arrays
+SCORE: 6/6
+Sets
+SCORE: 8/12
+Tuples
+SCORE: 6/6
+Arrays vs sets vs tuples
+SCORE: 3/6
+Dictionaries
+SCORE: 5/6
+Dictionary default values
+SCORE: 7/12
+Creating empty collections
+SCORE: 5/6
+Enumerations
+SCORE: 4/6
+Enum associated values
+SCORE: 6/6
+Enum raw values
+SCORE: 6/6
+Complex types: Summary
+SCORE: 4/6
+
 Day 3 – operators and conditions
