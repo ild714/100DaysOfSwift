@@ -71,3 +71,5 @@ Operators and conditions: Summary
 SCORE: 9/12
 
 Day 4 – loops, loops, and more loops
+
+Day 5 – functions, parameters, and errors
