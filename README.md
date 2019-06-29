@@ -72,4 +72,21 @@ SCORE: 9/12
 
 Day 4 – loops, loops, and more loops
 
+
+Looping
+For loops
+SCORE: 8/12
+While loops
+SCORE: 9/12
+Repeat loops
+Exiting loops
+Exiting multiple loops
+SCORE: 5/6
+Skipping items
+SCORE: 10/12
+Infinite loops
+SCORE: 11/12
+Looping: Summary
+SCORE: 8/12
+
 Day 5 – functions, parameters, and errors
