@@ -90,3 +90,5 @@ Looping: Summary
 SCORE: 8/12
 
 Day 5 – functions, parameters, and errors
+
+Day 6 – closures part one
