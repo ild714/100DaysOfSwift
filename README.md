@@ -129,3 +129,5 @@ Closures as parameters
 SCORE: 8/12
 Trailing closure syntax
 SCORE: 10/12
+
+Day7
