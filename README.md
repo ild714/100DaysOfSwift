@@ -1,6 +1,6 @@
 # 100DaysOfSwift
 
-Day 1 – variables, simple data types, and string interpolation
+# Day 1 – variables, simple data types, and string interpolation
 
 Simple Types
 Variables
@@ -20,7 +20,7 @@ SCORE: 6/6
 Simple types: Summary
 SCORE: 6/6
 
-Day 2 – arrays, dictionaries, sets, and enums
+# Day 2 – arrays, dictionaries, sets, and enums
 
 Complex Types
 Arrays
@@ -46,7 +46,7 @@ SCORE: 6/6
 Complex types: Summary
 SCORE: 4/6
 
-Day 3 – operators and conditions
+# Day 3 – operators and conditions
 
 Operators and conditions
 Arithmetic operators
@@ -70,8 +70,7 @@ SCORE: 6/6
 Operators and conditions: Summary
 SCORE: 9/12
 
-Day 4 – loops, loops, and more loops
-
+# Day 4 – loops, loops, and more loops
 
 Looping
 For loops
@@ -89,7 +88,7 @@ SCORE: 11/12
 Looping: Summary
 SCORE: 8/12
 
-Day 5 – functions, parameters, and errors
+# Day 5 – functions, parameters, and errors
 
 Functions
 Writing functions
@@ -115,7 +114,7 @@ SCORE: 6/6
 Functions: Summary
 SCORE: 10/12
 
-Day 6 – closures part one
+# Day 6 – closures part one
 
 Closures
 Creating basic closures
