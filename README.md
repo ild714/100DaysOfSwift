@@ -116,3 +116,16 @@ Functions: Summary
 SCORE: 10/12
 
 Day 6 – closures part one
+
+
+Closures
+Creating basic closures
+SCORE: 9/12
+Accepting parameters in a closure
+SCORE: 10/12
+Returning values from a closure
+SCORE: 10/12
+Closures as parameters
+SCORE: 8/12
+Trailing closure syntax
+SCORE: 10/12
