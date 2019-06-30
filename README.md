@@ -117,7 +117,6 @@ SCORE: 10/12
 
 Day 6 – closures part one
 
-
 Closures
 Creating basic closures
 SCORE: 9/12
@@ -130,4 +129,4 @@ SCORE: 8/12
 Trailing closure syntax
 SCORE: 10/12
 
-Day7
+Day 7 – closures part two
