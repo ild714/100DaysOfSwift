@@ -91,4 +91,28 @@ SCORE: 8/12
 
 Day 5 – functions, parameters, and errors
 
+Functions
+Writing functions
+SCORE: 7/12
+Accepting parameters
+SCORE: 9/12
+Returning values
+SCORE: 10/12
+Parameter labels
+SCORE: 12/12
+Omitting parameter labels
+SCORE: 11/12
+Default parameters
+SCORE: 11/12
+Variadic functions
+SCORE: 6/6
+Writing throwing functions
+SCORE: 8/12
+Running throwing functions
+SCORE: 4/6
+inout parameters
+SCORE: 6/6
+Functions: Summary
+SCORE: 10/12
+
 Day 6 – closures part one
