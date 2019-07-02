@@ -163,3 +163,19 @@ SCORE: 5/6
 Properties and methods of arrays
 SCORE: 9/12
 
+## Day 9 – access control, static properties, and laziness
+
+Initializers
+SCORE: 12/12
+Referring to the current instance
+SCORE: 9/12
+Lazy properties
+SCORE: 6/6
+Static properties and methods
+SCORE: 8/12
+Access control
+SCORE: 8/12
+Structs: Summary
+SCORE: 6/6
+
+
