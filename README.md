@@ -1,7 +1,7 @@
 # 100DaysOfSwift
-<video src="video.mp4" width="320" height="200" controls preload></video>
+- [x]
 ## Day 1 variables, simple data types, and string interpolation
-### - [x] Simple Types
+### Simple Types
 - Variables
 SCORE: 6/6
 
