@@ -2,7 +2,9 @@
 
 ## Day 1 variables, simple data types, and string interpolation 
 ### Simple Types
-- [x]
+
+[x]
+
 - Variables
 SCORE: 6/6
 
