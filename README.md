@@ -76,11 +76,11 @@ SCORE: 9/12
 - Repeat loops
 Exiting multiple loops
 SCORE: 5/6
--Skipping items
+- Skipping items
 SCORE: 10/12
--Infinite loops
+- Infinite loops
 SCORE: 11/12
--Looping: Summary
+- Looping: Summary
 SCORE: 8/12
 
 ## Day 5 – functions, parameters, and errors
