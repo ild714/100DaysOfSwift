@@ -1,6 +1,6 @@
 # 100DaysOfSwift
 
-## - [x] Day 1 – variables, simple data types, and string interpolation 
+## Day 1 - [x] – variables, simple data types, and string interpolation 
 
 Simple Types
 Variables
