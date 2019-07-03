@@ -1,7 +1,6 @@
 # 100DaysOfSwift
 
 ## Day 1 variables, simple data types, and string interpolation 
-### Simple Types
 
 - Variables
 SCORE: 6/6
@@ -28,8 +27,6 @@ SCORE: 6/6
 SCORE: 6/6
 
 ## Day 2 – arrays, dictionaries, sets, and enums
-
-### Complex Types
 
 Arrays
 SCORE: 6/6
@@ -66,7 +63,6 @@ SCORE: 4/6
 
 ## Day 3 – operators and conditions
 
-### Operators and conditions
 Arithmetic operators
 SCORE: 6/6
 
@@ -99,7 +95,6 @@ SCORE: 9/12
 
 ## Day 4 – loops, loops, and more loops
 
-### Looping
 For loops
 SCORE: 8/12
 
@@ -122,7 +117,6 @@ SCORE: 8/12
 
 ## Day 5 – functions, parameters, and errors
 
-### Functions
 Writing functions
 SCORE: 7/12
 
@@ -158,7 +152,6 @@ SCORE: 10/12
 
 ## Day 6 – closures part one
 
-### Closures
 Creating basic closures
 SCORE: 9/12
 
@@ -176,7 +169,7 @@ SCORE: 10/12
 
 ## Day 7 – closures part two
 
-### Using closures as parameters when they accept parameters
+Using closures as parameters when they accept parameters
 SCORE: 8/12
 
 Using closures as parameters when they return values
@@ -199,7 +192,6 @@ SCORE: 5/6
 
 ## Day 8 – structs, properties, and methods
 
-### Structs
 Creating your own structs
 SCORE: 8/12
 
@@ -223,7 +215,7 @@ SCORE: 9/12
 
 ## Day 9 – access control, static properties, and laziness
 
-### Initializers
+Initializers
 SCORE: 12/12
 
 Referring to the current instance
