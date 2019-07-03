@@ -21,199 +21,153 @@ SCORE: 6/6
 
 ## Day 2 – arrays, dictionaries, sets, and enums
 
-Arrays
+- Arrays
 SCORE: 6/6
-Sets
+- Sets
 SCORE: 8/12
-Tuples
+- Tuples
 SCORE: 6/6
 Arrays vs sets vs tuples
 SCORE: 3/6
-Dictionaries
+- Dictionaries
 SCORE: 5/6
-Dictionary default values
+- Dictionary default values
 SCORE: 7/12
-Creating empty collections
+- Creating empty collections
 SCORE: 5/6
-Enumerations
+- Enumerations
 SCORE: 4/6
-Enum associated values
+- Enum associated values
 SCORE: 6/6
-Enum raw values
+- Enum raw values
 SCORE: 6/6
-Complex types: Summary
+- Complex types: Summary
 SCORE: 4/6
 
 ## Day 3 – operators and conditions
 
-Arithmetic operators
+- Arithmetic operators
 SCORE: 6/6
-
-Operator overloading
+- Operator overloading
 SCORE: 8/12
-
-Compound assignment operators
+- Compound assignment operators
 SCORE: 6/6
-
-Comparison operators
+- Comparison operators
 SCORE: 5/6
-
-Conditions
+- Conditions
 SCORE: 9/12
-
-Combining conditions
+- Combining conditions
 SCORE: 10/12
-
-The ternary operator
+- The ternary operator
 SCORE: 11/12
-
-Switch statements
+- Switch statements
 SCORE: 5/6
-
-Range operators
+- Range operators
 SCORE: 6/6
-
-Operators and conditions: Summary
+- Operators and conditions: Summary
 SCORE: 9/12
 
 ## Day 4 – loops, loops, and more loops
 
-For loops
+- For loops
 SCORE: 8/12
-
-While loops
+- While loops
 SCORE: 9/12
-
-Repeat loops
-Exiting loops
+- Repeat loops
 Exiting multiple loops
 SCORE: 5/6
-
-Skipping items
+-Skipping items
 SCORE: 10/12
-
-Infinite loops
+-Infinite loops
 SCORE: 11/12
-
-Looping: Summary
+-Looping: Summary
 SCORE: 8/12
 
 ## Day 5 – functions, parameters, and errors
 
-Writing functions
+- Writing functions
 SCORE: 7/12
-
-Accepting parameters
+- Accepting parameters
 SCORE: 9/12
-
-Returning values
+- Returning values
 SCORE: 10/12
-
-Parameter labels
+- Parameter labels
 SCORE: 12/12
-
-Omitting parameter labels
+- Omitting parameter labels
 SCORE: 11/12
-
-Default parameters
+- Default parameters
 SCORE: 11/12
-
-Variadic functions
+- Variadic functions
 SCORE: 6/6
-
-Writing throwing functions
+- Writing throwing functions
 SCORE: 8/12
-
-Running throwing functions
+- Running throwing functions
 SCORE: 4/6
-
-inout parameters
+- inout parameters
 SCORE: 6/6
-
-Functions: Summary
+- Functions: Summary
 SCORE: 10/12
 
 ## Day 6 – closures part one
 
-Creating basic closures
+- Creating basic closures
 SCORE: 9/12
-
-Accepting parameters in a closure
+- Accepting parameters in a closure
 SCORE: 10/12
-
-Returning values from a closure
+- Returning values from a closure
 SCORE: 10/12
-
-Closures as parameters
+- Closures as parameters
 SCORE: 8/12
-
-Trailing closure syntax
+- Trailing closure syntax
 SCORE: 10/12
 
 ## Day 7 – closures part two
 
-Using closures as parameters when they accept parameters
+- Using closures as parameters when they accept parameters
 SCORE: 8/12
-
-Using closures as parameters when they return values
+- Using closures as parameters when they return values
 SCORE: 6/12
-
-Shorthand parameter names
+- Shorthand parameter names
 SCORE: 5/6
-
-Closures with multiple parameters
+- Closures with multiple parameters
 SCORE: 9/12
-
-Returning closures from functions
+- Returning closures from functions
 SCORE: 4/12
-
-Capturing values
+- Capturing values
 SCORE: 11/12
-
-Closures: Summary
+- Closures: Summary
 SCORE: 5/6
 
 ## Day 8 – structs, properties, and methods
 
-Creating your own structs
+- Creating your own structs
 SCORE: 8/12
-
-Computed properties
+- Computed properties
 SCORE: 8/12
-
-Property observers
+- Property observers
 SCORE: 8/12
-
-Methods
+- Methods
 SCORE: 8/12
-
-Mutating methods
+- Mutating methods
 SCORE: 8/12
-
-Properties and methods of strings
+- Properties and methods of strings
 SCORE: 5/6
-
-Properties and methods of arrays
+- Properties and methods of arrays
 SCORE: 9/12
 
 ## Day 9 – access control, static properties, and laziness
 
-Initializers
+- Initializers
 SCORE: 12/12
-
-Referring to the current instance
+- Referring to the current instance
 SCORE: 9/12
-
-Lazy properties
+- Lazy properties
 SCORE: 6/6
-
-Static properties and methods
+- Static properties and methods
 SCORE: 8/12
-
-Access control
+- Access control
 SCORE: 8/12
-
-Structs: Summary
+- Structs: Summary
 SCORE: 6/6
 
 
