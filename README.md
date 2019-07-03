@@ -1,30 +1,29 @@
 # 100DaysOfSwift
 <video src="video.mp4" width="320" height="200" controls preload></video>
 ## Day 1 variables, simple data types, and string interpolation
-- [x]
-# Simple Types
-Variables
+### - [x] Simple Types
+- Variables
 SCORE: 6/6
 
-Strings and integers
+- Strings and integers
 SCORE: 6/6
 
-Multi-line strings
+- Multi-line strings
 SCORE: 11/12
 
-Doubles and booleans
+- Doubles and booleans
 SCORE: 6/6
 
-String interpolation
+- String interpolation
 SCORE: 6/6
 
-Constants
+- Constants
 SCORE: 6/6
 
-Type annotations
+- Type annotations
 SCORE: 6/6
 
-Simple types: Summary
+- Simple types: Summary
 SCORE: 6/6
 
 ## Day 2 – arrays, dictionaries, sets, and enums
