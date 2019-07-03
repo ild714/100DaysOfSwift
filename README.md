@@ -20,8 +20,8 @@ SCORE: 6/6
 Simple types: Summary
 SCORE: 6/6
 
-## - [x] Day 2 – arrays, dictionaries, sets, and enums
-
+## Day 2 – arrays, dictionaries, sets, and enums
+- [x]
 Complex Types
 Arrays
 SCORE: 6/6
@@ -46,8 +46,8 @@ SCORE: 6/6
 Complex types: Summary
 SCORE: 4/6
 
-## - [x] Day 3 – operators and conditions
-
+## Day 3 – operators and conditions
+- [x]
 Operators and conditions
 Arithmetic operators
 SCORE: 6/6
@@ -70,8 +70,8 @@ SCORE: 6/6
 Operators and conditions: Summary
 SCORE: 9/12
 
-## - [x] Day 4 – loops, loops, and more loops
-
+## Day 4 – loops, loops, and more loops
+- [x]
 Looping
 For loops
 SCORE: 8/12
@@ -88,8 +88,8 @@ SCORE: 11/12
 Looping: Summary
 SCORE: 8/12
 
-## - [x] Day 5 – functions, parameters, and errors
-
+## Day 5 – functions, parameters, and errors
+- [x]
 Functions
 Writing functions
 SCORE: 7/12
@@ -114,8 +114,8 @@ SCORE: 6/6
 Functions: Summary
 SCORE: 10/12
 
-## - [x] Day 6 – closures part one
-
+## Day 6 – closures part one
+- [x]
 Closures
 Creating basic closures
 SCORE: 9/12
@@ -128,8 +128,8 @@ SCORE: 8/12
 Trailing closure syntax
 SCORE: 10/12
 
-## - [x] Day 7 – closures part two
-
+## Day 7 – closures part two
+- [x]
 Using closures as parameters when they accept parameters
 SCORE: 8/12
 Using closures as parameters when they return values
@@ -145,8 +145,8 @@ SCORE: 11/12
 Closures: Summary
 SCORE: 5/6
 
-## - [x] Day 8 – structs, properties, and methods
-
+## Day 8 – structs, properties, and methods
+- [x]
 Structs
 Creating your own structs
 SCORE: 8/12
@@ -163,8 +163,8 @@ SCORE: 5/6
 Properties and methods of arrays
 SCORE: 9/12
 
-## - [x] Day 9 – access control, static properties, and laziness
-
+## Day 9 – access control, static properties, and laziness
+- [x]
 Initializers
 SCORE: 12/12
 Referring to the current instance
