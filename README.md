@@ -4,7 +4,6 @@
 
 - Variables
 SCORE: 6/6
-
 - Strings and integers
 SCORE: 6/6
 
