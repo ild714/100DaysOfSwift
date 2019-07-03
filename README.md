@@ -1,7 +1,7 @@
 # 100DaysOfSwift
 
-## Day 1 – variables, simple data types, and string interpolation
-- [x]
+- [x] ## Day 1 – variables, simple data types, and string interpolation
+
 Simple Types
 Variables
 SCORE: 6/6
@@ -20,7 +20,7 @@ SCORE: 6/6
 Simple types: Summary
 SCORE: 6/6
 
-## Day 2 – arrays, dictionaries, sets, and enums
+- [x] ## Day 2 – arrays, dictionaries, sets, and enums
 
 Complex Types
 Arrays
@@ -46,7 +46,7 @@ SCORE: 6/6
 Complex types: Summary
 SCORE: 4/6
 
-## Day 3 – operators and conditions
+- [x] ## Day 3 – operators and conditions
 
 Operators and conditions
 Arithmetic operators
@@ -70,7 +70,7 @@ SCORE: 6/6
 Operators and conditions: Summary
 SCORE: 9/12
 
-## Day 4 – loops, loops, and more loops
+- [x] ## Day 4 – loops, loops, and more loops
 
 Looping
 For loops
@@ -88,7 +88,7 @@ SCORE: 11/12
 Looping: Summary
 SCORE: 8/12
 
-## Day 5 – functions, parameters, and errors
+- [x] ## Day 5 – functions, parameters, and errors
 
 Functions
 Writing functions
@@ -114,7 +114,7 @@ SCORE: 6/6
 Functions: Summary
 SCORE: 10/12
 
-## Day 6 – closures part one
+- [x] ## Day 6 – closures part one
 
 Closures
 Creating basic closures
@@ -128,7 +128,7 @@ SCORE: 8/12
 Trailing closure syntax
 SCORE: 10/12
 
-## Day 7 – closures part two
+- [x] ## Day 7 – closures part two
 
 Using closures as parameters when they accept parameters
 SCORE: 8/12
@@ -145,7 +145,7 @@ SCORE: 11/12
 Closures: Summary
 SCORE: 5/6
 
-## Day 8 – structs, properties, and methods
+- [x] ## Day 8 – structs, properties, and methods
 
 Structs
 Creating your own structs
@@ -163,7 +163,7 @@ SCORE: 5/6
 Properties and methods of arrays
 SCORE: 9/12
 
-## Day 9 – access control, static properties, and laziness
+- [x] ## Day 9 – access control, static properties, and laziness
 
 Initializers
 SCORE: 12/12
