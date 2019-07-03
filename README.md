@@ -1,6 +1,5 @@
 # 100DaysOfSwift
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
+<video src="video.mp4" width="320" height="200" controls preload></video>
 ## Day 1 variables, simple data types, and string interpolation
 - [x]
 Simple Types
