@@ -188,3 +188,18 @@ SCORE: 10/12
 SCORE: 7/12
 - Classes: Summary
 SCORE: 5/6
+
+## Day 11 – protocols, extensions, and protocol extensions
+
+- Protocols
+SCORE: 8/12
+- Protocol inheritance
+SCORE: 8/12
+- Extensions
+SCORE: 7/12
+- Protocol extensions
+SCORE: 10/12
+- Protocol-oriented programming
+SCORE: 5/6
+- Protocols and extensions: Summary
+SCORE: 10/12
