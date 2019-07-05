@@ -203,3 +203,29 @@ SCORE: 10/12
 SCORE: 5/6
 - Protocols and extensions: Summary
 SCORE: 10/12
+
+## Day 12 – optionals, unwrapping, and typecasting
+
+- Handling missing data
+SCORE: 4/6
+- Unwrapping optionals
+SCORE: 7/12
+- Unwrapping with guard
+SCORE: 7/12
+- Force unwrapping
+SCORE: 4/6
+- Implicitly unwrapped optionals
+SCORE: 6/6
+- Nil coalescing
+SCORE: 7/12
+- Optional chaining
+SCORE: 8/12
+- Optional try
+SCORE: 5/6
+- Failable initializers
+SCORE: 9/12
+- Typecasting
+SCORE: 11/12
+- Optionals: Summary
+SCORE: 10/12
+
