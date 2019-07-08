@@ -7,7 +7,7 @@ SCORE: 6/6
 - Strings and integers
 SCORE: 6/6
 - Multi-line strings
-SCORE: 11/12
+SCORE: 12/12
 - Doubles and booleans
 SCORE: 6/6
 - String interpolation
