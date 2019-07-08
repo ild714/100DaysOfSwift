@@ -49,7 +49,7 @@ SCORE: 4/6
 - Arithmetic operators
 SCORE: 6/6
 - Operator overloading
-SCORE: 8/12
+SCORE: 12/12
 - Compound assignment operators
 SCORE: 6/6
 - Comparison operators
