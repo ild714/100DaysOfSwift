@@ -24,15 +24,15 @@ SCORE: 6/6
 - Arrays
 SCORE: 6/6
 - Sets
-SCORE: 8/12
+SCORE: 12/12
 - Tuples
 SCORE: 6/6
 Arrays vs sets vs tuples
-SCORE: 3/6
+SCORE: 6/6
 - Dictionaries
-SCORE: 5/6
+SCORE: 6/6
 - Dictionary default values
-SCORE: 7/12
+SCORE: 12/12
 - Creating empty collections
 SCORE: 5/6
 - Enumerations
@@ -42,7 +42,7 @@ SCORE: 6/6
 - Enum raw values
 SCORE: 6/6
 - Complex types: Summary
-SCORE: 4/6
+SCORE: 6/6
 
 ## Day 3 – operators and conditions
 
@@ -70,18 +70,18 @@ SCORE: 12/12
 ## Day 4 – loops, loops, and more loops
 
 - For loops
-SCORE: 8/12
+SCORE: 12/12
 - While loops
-SCORE: 9/12
+SCORE: 12/12
 - Repeat loops
 Exiting multiple loops
-SCORE: 5/6
+SCORE: 6/6
 - Skipping items
-SCORE: 10/12
+SCORE: 12/12
 - Infinite loops
-SCORE: 11/12
+SCORE: 12/12
 - Looping: Summary
-SCORE: 8/12
+SCORE: 12/12
 
 ## Day 5 – functions, parameters, and errors
 
