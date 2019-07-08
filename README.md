@@ -53,19 +53,19 @@ SCORE: 12/12
 - Compound assignment operators
 SCORE: 6/6
 - Comparison operators
-SCORE: 5/6
+SCORE: 6/6
 - Conditions
-SCORE: 9/12
+SCORE: 12/12
 - Combining conditions
-SCORE: 10/12
+SCORE: 12/12
 - The ternary operator
-SCORE: 11/12
+SCORE: 12/12
 - Switch statements
-SCORE: 5/6
+SCORE: 6/6
 - Range operators
 SCORE: 6/6
 - Operators and conditions: Summary
-SCORE: 9/12
+SCORE: 12/12
 
 ## Day 4 – loops, loops, and more loops
 
@@ -230,5 +230,16 @@ SCORE: 11/12
 SCORE: 10/12
 
 ## Day 13 – Swift review, day one
+
+- Variables and constants
+- Types of Data
+- Operators
+- String interpolation
+- Arrays
+- Dictionaries
+- Conditional statements
+- Loops
+- Switch case
+
 
 ## Day 14 – Swift review, day two
