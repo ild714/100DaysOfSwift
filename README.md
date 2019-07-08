@@ -7,7 +7,7 @@ SCORE: 6/6
 - Strings and integers
 SCORE: 6/6
 - Multi-line strings
-SCORE: 11/12
+SCORE: 12/12
 - Doubles and booleans
 SCORE: 6/6
 - String interpolation
@@ -24,15 +24,15 @@ SCORE: 6/6
 - Arrays
 SCORE: 6/6
 - Sets
-SCORE: 8/12
+SCORE: 12/12
 - Tuples
 SCORE: 6/6
 Arrays vs sets vs tuples
-SCORE: 3/6
+SCORE: 6/6
 - Dictionaries
-SCORE: 5/6
+SCORE: 6/6
 - Dictionary default values
-SCORE: 7/12
+SCORE: 12/12
 - Creating empty collections
 SCORE: 5/6
 - Enumerations
@@ -42,46 +42,46 @@ SCORE: 6/6
 - Enum raw values
 SCORE: 6/6
 - Complex types: Summary
-SCORE: 4/6
+SCORE: 6/6
 
 ## Day 3 – operators and conditions
 
 - Arithmetic operators
 SCORE: 6/6
 - Operator overloading
-SCORE: 8/12
+SCORE: 12/12
 - Compound assignment operators
 SCORE: 6/6
 - Comparison operators
-SCORE: 5/6
+SCORE: 6/6
 - Conditions
-SCORE: 9/12
+SCORE: 12/12
 - Combining conditions
-SCORE: 10/12
+SCORE: 12/12
 - The ternary operator
-SCORE: 11/12
+SCORE: 12/12
 - Switch statements
-SCORE: 5/6
+SCORE: 6/6
 - Range operators
 SCORE: 6/6
 - Operators and conditions: Summary
-SCORE: 9/12
+SCORE: 12/12
 
 ## Day 4 – loops, loops, and more loops
 
 - For loops
-SCORE: 8/12
+SCORE: 12/12
 - While loops
-SCORE: 9/12
+SCORE: 12/12
 - Repeat loops
 Exiting multiple loops
-SCORE: 5/6
+SCORE: 6/6
 - Skipping items
-SCORE: 10/12
+SCORE: 12/12
 - Infinite loops
-SCORE: 11/12
+SCORE: 12/12
 - Looping: Summary
-SCORE: 8/12
+SCORE: 12/12
 
 ## Day 5 – functions, parameters, and errors
 
@@ -230,3 +230,16 @@ SCORE: 11/12
 SCORE: 10/12
 
 ## Day 13 – Swift review, day one
+
+- Variables and constants
+- Types of Data
+- Operators
+- String interpolation
+- Arrays
+- Dictionaries
+- Conditional statements
+- Loops
+- Switch case
+
+
+## Day 14 – Swift review, day two
