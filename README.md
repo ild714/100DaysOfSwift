@@ -207,17 +207,17 @@ SCORE: 10/12
 ## Day 12 – optionals, unwrapping, and typecasting
 
 - Handling missing data
-SCORE: 4/6
+SCORE: 5/6
 - Unwrapping optionals
-SCORE: 7/12
+SCORE: 8/12
 - Unwrapping with guard
-SCORE: 7/12
+SCORE: 10/12
 - Force unwrapping
 SCORE: 4/6
 - Implicitly unwrapped optionals
 SCORE: 6/6
 - Nil coalescing
-SCORE: 7/12
+SCORE: 10/12
 - Optional chaining
 SCORE: 8/12
 - Optional try
