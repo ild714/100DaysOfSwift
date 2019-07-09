@@ -252,3 +252,10 @@ SCORE: 10/12
 - Classes
 
 ## Day 15 – Swift review, day three
+
+- Properties
+- Static properties and methods
+- Access control
+- Polymorphism and typecasting
+- Closures
+
