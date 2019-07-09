@@ -244,4 +244,11 @@ SCORE: 10/12
 
 ## Day 14 – Swift review, day two
 
+- Functions
+- Optionals
+- Optional chaining
+- Enumerations
+- Structs
+- Classes
+
 ## Day 15 – Swift review, day three
