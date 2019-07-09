@@ -111,7 +111,7 @@ SCORE: 11/12
 ## Day 6 – closures part one
 
 - Creating basic closures
-SCORE: 9/12
+SCORE: 10/12
 - Accepting parameters in a closure
 SCORE: 10/12
 - Returning values from a closure
@@ -124,15 +124,15 @@ SCORE: 10/12
 ## Day 7 – closures part two
 
 - Using closures as parameters when they accept parameters
-SCORE: 8/12
+SCORE: 11/12
 - Using closures as parameters when they return values
-SCORE: 6/12
+SCORE: 7/12
 - Shorthand parameter names
-SCORE: 5/6
+SCORE: 6/6
 - Closures with multiple parameters
 SCORE: 9/12
 - Returning closures from functions
-SCORE: 4/12
+SCORE: 8/12
 - Capturing values
 SCORE: 11/12
 - Closures: Summary
