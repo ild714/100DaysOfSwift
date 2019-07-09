@@ -173,11 +173,11 @@ SCORE: 6/6
 ## Day 10 – classes and inheritance
 
 - Creating your own classes
-SCORE: 7/12
+SCORE: 9/12
 - Class inheritance
 SCORE: 8/12
 - Overriding methods
-SCORE: 8/12
+SCORE: 9/12
 - Final classes
 SCORE: 11/12
 - Copying objects
@@ -185,9 +185,9 @@ SCORE: 11/12
 - Deinitializers
 SCORE: 10/12
 - Mutability
-SCORE: 7/12
+SCORE: 8/12
 - Classes: Summary
-SCORE: 5/6
+SCORE: 6/6
 
 ## Day 11 – protocols, extensions, and protocol extensions
 
