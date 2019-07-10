@@ -259,3 +259,9 @@ SCORE: 10/12
 - Polymorphism and typecasting
 - Closures
 
+## Day 16 - PROJECT 1, PART ONE
+
+- Setting up
+- Listing images with FileManager
+- Designing our interface
+
