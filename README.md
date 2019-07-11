@@ -265,3 +265,8 @@ SCORE: 10/12
 - Listing images with FileManager
 - Designing our interface
 
+## Day 17 - PROJECT 1, PART TWO
+
+- Building a detail screen
+- Loading images with UIImage
+- Final tweaks: hidesBarsOnTap, safe area margins
