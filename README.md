@@ -270,3 +270,9 @@ SCORE: 10/12
 - Building a detail screen
 - Loading images with UIImage
 - Final tweaks: hidesBarsOnTap, safe area margins
+
+## Day 18 - PROJECT 1, PART THREE
+
+- Wrap up
+- Review for Project 1: Storm Viewer
+
