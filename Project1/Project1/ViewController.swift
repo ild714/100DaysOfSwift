@@ -9,7 +9,7 @@
 import UIKit // user interface toolkit
 //24
 
-class ViewController: UITableViewController { // i want to create a new screen of data
+class ViewController: UITableViewController { // I want to create a new screen of data
     var pictures = [String]()
     
     override func viewDidLoad() {
@@ -36,6 +36,17 @@ class ViewController: UITableViewController { // i want to create a new screen o
         let cell = tableView.dequeueReusableCell(withIdentifier: "Picture", for: indexPath)
         cell.textLabel?.text = pictures[indexPath.row]
         return cell
+    }
+    
+    override func tableView(_ tableView : UITableView, didSelectRowAt indexPath : IndexPath){
+        // 1: try loading the "Deail" view controller and typeasting it to be DetailViewController
+        if let vc = storyboard?.instantiateViewController(withIdentifier: "Detail") as? DetailViewController{
+            // 2: sucess! Set its selectedImage property
+            vc.selectedImage = pictures[indexPath.row]
+            
+            //3:now push it onto the navigation controller
+            navigationController?.pushViewController(vc,animated: true)
+        }
     }
 }
 
