@@ -265,3 +265,29 @@ SCORE: 10/12
 - Listing images with FileManager
 - Designing our interface
 
+## Day 17 - PROJECT 1, PART TWO
+
+- Building a detail screen
+- Loading images with UIImage
+- Final tweaks: hidesBarsOnTap, safe area margins
+
+## Day 18 - PROJECT 1, PART THREE
+
+- Wrap up
+- Review for Project 1: Storm Viewer
+
+## Day 19 – Project 2, part one
+
+- Setting up
+- Designing your layout
+- Making the basic game work: UIButton and CALayer
+
+## Day 20 – Project 2, part two
+
+- Guess which flag: random numbers
+- From outlets to actions: creating an IBAction
+
+## Day 21 – Project 2, part three
+
+- Wrap up
+- Review for Project 2: Guess the Flag
