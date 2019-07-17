@@ -275,7 +275,9 @@ SCORE: 10/12
 
 - Wrap up
 - Review for Project 1: Storm Viewer
-- Total score: 9/12
+
+- Project 1: Storm Viewer
+SCORE: 9/12
 
 ## Day 19 – Project 2, part one
 
