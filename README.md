@@ -275,6 +275,8 @@ SCORE: 10/12
 
 - Wrap up
 - Review for Project 1: Storm Viewer
+- Project 1: Storm Viewer
+  SCORE: 9/12
 
 ## Day 19 – Project 2, part one
 
@@ -291,3 +293,10 @@ SCORE: 10/12
 
 - Wrap up
 - Review for Project 2: Guess the Flag
+
+## Day 22 – Project 3
+
+- About technique projects
+- UIActivityViewController explained
+- Wrap up
+- Review for Project 3: Social media
