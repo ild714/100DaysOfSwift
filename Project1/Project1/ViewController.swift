@@ -14,6 +14,9 @@ class ViewController: UITableViewController { // I want to create a new screen o
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        title = "Storm Viewer"
+        navigationController?.navigationBar.prefersLargeTitles = true
         // Do any additional setup after loading the view.
         let fm = FileManager.default // work with filesystem ( look for files )
         let path = Bundle.main.resourcePath! // bundle is a directory that contains our compiled //programm and all our assets
@@ -24,6 +27,7 @@ class ViewController: UITableViewController { // I want to create a new screen o
                 // this is a picture to load!
                 pictures.append(item)
             }
+            pictures.sort()
         }
         print (pictures)
     }
@@ -43,7 +47,8 @@ class ViewController: UITableViewController { // I want to create a new screen o
         if let vc = storyboard?.instantiateViewController(withIdentifier: "Detail") as? DetailViewController{
             // 2: sucess! Set its selectedImage property
             vc.selectedImage = pictures[indexPath.row]
-            
+            vc.numberOfPicture = indexPath.row + 1
+            vc.totalCount = pictures.count
             //3:now push it onto the navigation controller
             navigationController?.pushViewController(vc,animated: true)
         }

@@ -11,6 +11,8 @@ import UIKit
 class DetailViewController: UIViewController {
     @IBOutlet var imageView: UIImageView!
     var selectedImage : String?
+    var numberOfPicture: Int?
+    var totalCount : Int?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -20,7 +22,19 @@ class DetailViewController: UIViewController {
         }
     }
     
-
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        navigationController?.hidesBarsOnTap = true
+        
+        title = "Picture \(numberOfPicture!) of \(totalCount!)"
+        navigationItem.largeTitleDisplayMode = .never
+    }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        navigationController?.hidesBarsOnTap = false
+    }
+ 
     /*
     // MARK: - Navigation
 
