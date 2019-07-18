@@ -304,3 +304,5 @@ SCORE: 10/12
 - Review for Project 3: Social media
 
 ## Day 23 – Milestone: Projects 1-3
+
+## Day 24 – Project 4, part one
