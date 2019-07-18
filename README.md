@@ -293,6 +293,8 @@ SCORE: 10/12
 
 - Wrap up
 - Review for Project 2: Guess the Flag
+- Project 2: Guess the Flag
+  SCORE: 10/12
 
 ## Day 22 – Project 3
 
