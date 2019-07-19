@@ -302,5 +302,9 @@ SCORE: 10/12
 - UIActivityViewController explained
 - Wrap up
 - Review for Project 3: Social media
+- Project 3: Social media
+  SCORE: 9/12
 
 ## Day 23 – Milestone: Projects 1-3
+
+## Day 24 – Project 4, part one
