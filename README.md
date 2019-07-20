@@ -326,3 +326,5 @@ SCORE: 10/12
 
 - Wrap up
 - Review for Project 4: Easy Browser
+- Project 4: Easy Browser
+  SCORE: 11/12
