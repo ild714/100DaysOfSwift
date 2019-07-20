@@ -321,3 +321,5 @@ SCORE: 10/12
 
 - Monitoring page loads: UIToolbar and UIProgressView
 - Refactoring for the win
+
+## Day 26 – Project 4, part three
