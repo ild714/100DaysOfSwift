@@ -19,12 +19,16 @@ class ViewController: UITableViewController {
         let path = Bundle.main.resourcePath!
         let items = try! fl.contentsOfDirectory(atPath: path)
         
+        navigationController?.navigationBar.prefersLargeTitles = true
+        
+        /*
             for item in items {
                 if item.contains("png") {
                 picturesFlag.append(item)
                 }
             }
-        
+        */
+        picturesFlag += ["estonia","france","germany","ireland","italy", "nigeria","poland","russia","spain","us","uk"]
         print (picturesFlag)
         
         title = "Flags"
@@ -37,7 +41,7 @@ class ViewController: UITableViewController {
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "Picture",for: indexPath)
-        cell.textLabel?.text = picturesFlag[indexPath.row]
+        cell.imageView?.image = UIImage(named:picturesFlag[indexPath.row])
         return cell
     }
     
@@ -46,7 +50,7 @@ class ViewController: UITableViewController {
         
         vc.nameOfImage = picturesFlag[indexPath.row]
         
-        self.navigationController?.pushViewController(vc, animated: true)
+        navigationController?.pushViewController(vc, animated: true)
         
     }
     /*
