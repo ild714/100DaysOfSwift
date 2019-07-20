@@ -307,6 +307,24 @@ SCORE: 10/12
 
 ## Day 23 – Milestone: Projects 1-3
 
+- What you learned
+- Key points
+- Challenge
+
 ## Day 24 – Project 4, part one
 
+- Setting up
+- Creating a simple browser with WKWebView
+- Choosing a website: UIAlertController action sheets
+
 ## Day 25 – Project 4, part two
+
+- Monitoring page loads: UIToolbar and UIProgressView
+- Refactoring for the win
+
+## Day 26 – Project 4, part three
+
+- Wrap up
+- Review for Project 4: Easy Browser
+- Project 4: Easy Browser
+  SCORE: 11/12
