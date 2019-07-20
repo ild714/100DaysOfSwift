@@ -323,3 +323,6 @@ SCORE: 10/12
 - Refactoring for the win
 
 ## Day 26 – Project 4, part three
+
+- Wrap up
+- Review for Project 4: Easy Browser
