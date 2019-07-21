@@ -328,3 +328,6 @@ SCORE: 10/12
 - Review for Project 4: Easy Browser
 - Project 4: Easy Browser
   SCORE: 11/12
+
+
+## Day 27 – Project 5, part one
