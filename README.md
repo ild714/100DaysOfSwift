@@ -339,6 +339,11 @@ SCORE: 10/12
 
 ## Day 28 – Project 5, part two
 
--Prepare for submission: lowercased() and IndexPath
+- Prepare for submission: lowercased() and IndexPath
 - Checking for valid answers
 - Or else what?
+
+## Day 29 – Project 5, part three
+
+- Wrap up
+- Review for Project 5: Word Scramble
