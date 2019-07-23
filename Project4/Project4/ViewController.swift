@@ -9,21 +9,24 @@
 import UIKit
 import WebKit
 
-class ViewController: UIViewController, WKNavigationDelegate {
+class ViewController: UITableViewController, WKNavigationDelegate {
     var webView : WKWebView!
     var progressView : UIProgressView!
     var webSites = ["google.com","apple.com","hackingwithswift.com"]
     
+    /*
     override func loadView() {
-        webView = WKWebView()
-        webView.navigationDelegate = self
+    
         view = webView
     }
-    
+    */
     override func viewDidLoad() {
         super.viewDidLoad()
+        webView = WKWebView()
+        webView.navigationDelegate = self
+        //view = webView
         
-        navigationItem.rightBarButtonItem = UIBarButtonItem(title: "Open", style: .plain, target: self, action: #selector(openTapped))
+      
         
         let spacer = UIBarButtonItem(barButtonSystemItem: .flexibleSpace, target: nil, action: nil)
         
@@ -43,14 +46,42 @@ class ViewController: UIViewController, WKNavigationDelegate {
         
         webView.addObserver(self, forKeyPath: #keyPath(WKWebView.estimatedProgress), options: .new, context: nil)
         
-        let url = URL(string:"https://" + webSites[0])!
-        webView.load(URLRequest(url:url))
+        
+        //let url = URL(string:"https://" + webSites[0])!
+        //webView.load(URLRequest(url:url))
         webView.allowsBackForwardNavigationGestures = true
+        
         
         
     }
 
+    
+    override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return webSites.count
+    }
+    
+    override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        let cell = tableView.dequeueReusableCell(withIdentifier: "Site",for: indexPath)
+        cell.textLabel?.text = webSites[indexPath.row]
+        return cell
+    }
+    
+    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        let url = URL(string:"https://" + webSites[indexPath.row])!
+        webView.load(URLRequest(url:url))
+        view = webView
+        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem:.redo , target: self, action: #selector(returnView))
+       
+    }
+    
+    @objc func returnView() {
+        if let st = storyboard?.instantiateViewController(withIdentifier: "r") as? ViewController {
+        navigationController?.pushViewController(st, animated: true)
+        }
+    }
+    /*
     @objc func openTapped() {
+        
         let ac = UIAlertController(title: "Open page...", message: nil, preferredStyle: .actionSheet)
         for webSite in webSites {
         ac.addAction(UIAlertAction(title: webSite, style: .default, handler: openPage))
@@ -59,6 +90,7 @@ class ViewController: UIViewController, WKNavigationDelegate {
         ac.addAction(UIAlertAction(title: "Cancel", style: .cancel))
         ac.popoverPresentationController?.barButtonItem = self.navigationItem.rightBarButtonItem
         present(ac,animated: true)
+ 
     }
     
     func openPage(action : UIAlertAction) {
@@ -66,7 +98,7 @@ class ViewController: UIViewController, WKNavigationDelegate {
         guard let url = URL(string: "https://" + actionTitle) else { return }
         webView.load(URLRequest(url:url))
     }
-    
+    */
     func webView(_ webView: WKWebView, didFinish navigation: WKNavigation!) {
         title = webView.title
     }
@@ -84,11 +116,12 @@ class ViewController: UIViewController, WKNavigationDelegate {
                 if host.contains(website) {
                     decisionHandler(.allow)
                     return
-                } else {
+                }
+                /*else {
                     let alert = UIAlertController(title: "Stop", message: "This cite is not allowed", preferredStyle: .actionSheet)
                     alert.addAction(UIAlertAction(title: "Ok", style: .cancel))
                     present (alert,animated: true)
-                }
+                } */
             }
         }
         decisionHandler(.cancel)
