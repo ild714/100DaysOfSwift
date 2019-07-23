@@ -347,3 +347,5 @@ SCORE: 10/12
 
 - Wrap up
 - Review for Project 5: Word Scramble
+- Project 5: Word Scramble
+  SCORE: 11/12
