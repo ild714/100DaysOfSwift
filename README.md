@@ -362,3 +362,5 @@ SCORE: 10/12
 - Auto Layout anchors
 - Wrap up
 - Review for Project 6: Auto Layout
+- Project 6: Auto Layout
+  SCORE: 8/12
