@@ -364,3 +364,9 @@ SCORE: 10/12
 - Review for Project 6: Auto Layout
 - Project 6: Auto Layout
   SCORE: 8/12
+  
+## Day 32 – Milestone: Projects 4-6
+
+- What you learned
+- Key points
+- Challenge
