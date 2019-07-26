@@ -370,3 +370,11 @@ SCORE: 10/12
 - What you learned
 - Key points
 - Challenge
+
+## Day 33 – Project 7, part one
+
+- Setting up
+- Creating the basic UI: UITabBarController
+- Parsing JSON using the Codable protocol
+
+
