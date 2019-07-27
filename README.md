@@ -377,4 +377,8 @@ SCORE: 10/12
 - Creating the basic UI: UITabBarController
 - Parsing JSON using the Codable protocol
 
+## Day 34 – Project 7, part two
+
+- Rendering a petition: loadHTMLString
+- Finishing touches: didFinishLaunchingWithOptions
 
