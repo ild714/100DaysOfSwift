@@ -382,3 +382,8 @@ SCORE: 10/12
 - Rendering a petition: loadHTMLString
 - Finishing touches: didFinishLaunchingWithOptions
 
+## Day 35 – Project 7, part three
+
+- Wrap up
+- Review for Project 7: Whitehouse Petitions
+
