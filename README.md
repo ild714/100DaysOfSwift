@@ -387,3 +387,7 @@ SCORE: 10/12
 - Wrap up
 - Review for Project 7: Whitehouse Petitions
 
+## Day 36 – Project 8, part one
+
+- Setting up
+- Building a UIKit user interface programmatically
