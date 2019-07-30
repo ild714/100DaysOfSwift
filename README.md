@@ -391,3 +391,5 @@ SCORE: 10/12
 
 - Setting up
 - Building a UIKit user interface programmatically
+
+## Day 37 – Project 8, part two
