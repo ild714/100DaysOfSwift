@@ -395,3 +395,5 @@ SCORE: 10/12
 ## Day 37 – Project 8, part two
 
 ## Day 38 – Project 8, part three
+
+## Day 39 – Project 9, part one
