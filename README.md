@@ -401,3 +401,5 @@ SCORE: 10/12
 ## Day 40 – Project 9, part two
 
 ## Day 41 – Milestone: Projects 7-9
+
+## Day 42 – Project 10, part one
