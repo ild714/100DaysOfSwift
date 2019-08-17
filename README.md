@@ -417,3 +417,5 @@ SCORE: 10/12
 ## Day 48 – Project 12, part one
 
 ## Day 49 – Project 12, part two
+
+## Day 50 – Milestone: Projects 10-12
