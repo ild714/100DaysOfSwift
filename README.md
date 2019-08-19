@@ -86,11 +86,11 @@ SCORE: 12/12
 ## Day 5 – functions, parameters, and errors
 
 - Writing functions
-SCORE: 11/12
+SCORE: 12/12
 - Accepting parameters
 SCORE: 12/12
 - Returning values
-SCORE: 11/12
+SCORE: 12/12
 - Parameter labels
 SCORE: 12/12
 - Omitting parameter labels
@@ -100,13 +100,13 @@ SCORE: 12/12
 - Variadic functions
 SCORE: 6/6
 - Writing throwing functions
-SCORE: 9/12
+SCORE: 12/12
 - Running throwing functions
-SCORE: 5/6
+SCORE: 6/6
 - inout parameters
 SCORE: 6/6
 - Functions: Summary
-SCORE: 11/12
+SCORE: 12/12
 
 ## Day 6 – closures part one
 
