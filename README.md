@@ -111,15 +111,15 @@ SCORE: 12/12
 ## Day 6 – closures part one
 
 - Creating basic closures
-SCORE: 10/12
+SCORE: 12/12
 - Accepting parameters in a closure
-SCORE: 10/12
+SCORE: 12/12
 - Returning values from a closure
-SCORE: 10/12
+SCORE: 12/12
 - Closures as parameters
-SCORE: 8/12
+SCORE: 12/12
 - Trailing closure syntax
-SCORE: 10/12
+SCORE: 12/12
 
 ## Day 7 – closures part two
 
