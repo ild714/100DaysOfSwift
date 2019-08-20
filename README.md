@@ -126,17 +126,17 @@ SCORE: 10/12
 - Using closures as parameters when they accept parameters
 SCORE: 11/12
 - Using closures as parameters when they return values
-SCORE: 7/12
+SCORE: 9/12
 - Shorthand parameter names
 SCORE: 6/6
 - Closures with multiple parameters
 SCORE: 9/12
 - Returning closures from functions
-SCORE: 8/12
+SCORE: 10/12
 - Capturing values
-SCORE: 11/12
+SCORE: 12/12
 - Closures: Summary
-SCORE: 5/6
+SCORE: 6/6
 
 ## Day 8 – structs, properties, and methods
 
