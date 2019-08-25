@@ -192,17 +192,17 @@ SCORE: 6/6
 ## Day 11 – protocols, extensions, and protocol extensions
 
 - Protocols
-SCORE: 8/12
+SCORE: 12/12
 - Protocol inheritance
-SCORE: 8/12
+SCORE: 12/12
 - Extensions
-SCORE: 7/12
+SCORE: 12/12
 - Protocol extensions
-SCORE: 10/12
+SCORE: 12/12
 - Protocol-oriented programming
-SCORE: 5/6
+SCORE: 6/6
 - Protocols and extensions: Summary
-SCORE: 10/12
+SCORE: 12/12
 
 ## Day 12 – optionals, unwrapping, and typecasting
 
