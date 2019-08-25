@@ -147,9 +147,9 @@ SCORE: 12/12
 - Property observers
 SCORE: 12/12
 - Methods
-SCORE: 8/12
+SCORE: 12/12
 - Mutating methods
-SCORE: 6/12
+SCORE: 12/12
 - Properties and methods of strings
 SCORE: 6/6
 - Properties and methods of arrays
@@ -160,13 +160,13 @@ SCORE: 12/12
 - Initializers
 SCORE: 12/12
 - Referring to the current instance
-SCORE: 9/12
+SCORE: 12/12
 - Lazy properties
 SCORE: 6/6
 - Static properties and methods
-SCORE: 8/12
+SCORE: 12/12
 - Access control
-SCORE: 8/12
+SCORE: 12/12
 - Structs: Summary
 SCORE: 6/6
 
