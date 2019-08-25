@@ -173,19 +173,19 @@ SCORE: 6/6
 ## Day 10 – classes and inheritance
 
 - Creating your own classes
-SCORE: 9/12
+SCORE: 12/12
 - Class inheritance
-SCORE: 8/12
+SCORE: 12/12
 - Overriding methods
-SCORE: 9/12
+SCORE: 12/12
 - Final classes
-SCORE: 11/12
+SCORE: 12/12
 - Copying objects
-SCORE: 11/12
+SCORE: 12/12
 - Deinitializers
-SCORE: 10/12
+SCORE: 12/12
 - Mutability
-SCORE: 8/12
+SCORE: 12/12
 - Classes: Summary
 SCORE: 6/6
 
