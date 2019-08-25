@@ -124,15 +124,15 @@ SCORE: 12/12
 ## Day 7 – closures part two
 
 - Using closures as parameters when they accept parameters
-SCORE: 11/12
+SCORE: 12/12
 - Using closures as parameters when they return values
-SCORE: 9/12
+SCORE: 12/12
 - Shorthand parameter names
 SCORE: 6/6
 - Closures with multiple parameters
-SCORE: 9/12
+SCORE: 12/12
 - Returning closures from functions
-SCORE: 10/12
+SCORE: 12/12
 - Capturing values
 SCORE: 12/12
 - Closures: Summary
