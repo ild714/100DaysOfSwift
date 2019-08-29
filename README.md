@@ -86,11 +86,11 @@ SCORE: 12/12
 ## Day 5 – functions, parameters, and errors
 
 - Writing functions
-SCORE: 11/12
+SCORE: 12/12
 - Accepting parameters
 SCORE: 12/12
 - Returning values
-SCORE: 11/12
+SCORE: 12/12
 - Parameter labels
 SCORE: 12/12
 - Omitting parameter labels
@@ -100,134 +100,134 @@ SCORE: 12/12
 - Variadic functions
 SCORE: 6/6
 - Writing throwing functions
-SCORE: 9/12
+SCORE: 12/12
 - Running throwing functions
-SCORE: 5/6
+SCORE: 6/6
 - inout parameters
 SCORE: 6/6
 - Functions: Summary
-SCORE: 11/12
+SCORE: 12/12
 
 ## Day 6 – closures part one
 
 - Creating basic closures
-SCORE: 10/12
+SCORE: 12/12
 - Accepting parameters in a closure
-SCORE: 10/12
+SCORE: 12/12
 - Returning values from a closure
-SCORE: 10/12
+SCORE: 12/12
 - Closures as parameters
-SCORE: 8/12
+SCORE: 12/12
 - Trailing closure syntax
-SCORE: 10/12
+SCORE: 12/12
 
 ## Day 7 – closures part two
 
 - Using closures as parameters when they accept parameters
-SCORE: 11/12
+SCORE: 12/12
 - Using closures as parameters when they return values
-SCORE: 7/12
+SCORE: 12/12
 - Shorthand parameter names
 SCORE: 6/6
 - Closures with multiple parameters
-SCORE: 9/12
+SCORE: 12/12
 - Returning closures from functions
-SCORE: 8/12
+SCORE: 12/12
 - Capturing values
-SCORE: 11/12
+SCORE: 12/12
 - Closures: Summary
-SCORE: 5/6
+SCORE: 6/6
 
 ## Day 8 – structs, properties, and methods
 
 - Creating your own structs
-SCORE: 7/12
+SCORE: 12/12
 - Computed properties
-SCORE: 6/12
+SCORE: 12/12
 - Property observers
-SCORE: 8/12
+SCORE: 12/12
 - Methods
-SCORE: 8/12
+SCORE: 12/12
 - Mutating methods
-SCORE: 6/12
+SCORE: 12/12
 - Properties and methods of strings
 SCORE: 6/6
 - Properties and methods of arrays
-SCORE: 9/12
+SCORE: 12/12
 
 ## Day 9 – access control, static properties, and laziness
 
 - Initializers
 SCORE: 12/12
 - Referring to the current instance
-SCORE: 9/12
+SCORE: 12/12
 - Lazy properties
 SCORE: 6/6
 - Static properties and methods
-SCORE: 8/12
+SCORE: 12/12
 - Access control
-SCORE: 8/12
+SCORE: 12/12
 - Structs: Summary
 SCORE: 6/6
 
 ## Day 10 – classes and inheritance
 
 - Creating your own classes
-SCORE: 9/12
+SCORE: 12/12
 - Class inheritance
-SCORE: 8/12
+SCORE: 12/12
 - Overriding methods
-SCORE: 9/12
+SCORE: 12/12
 - Final classes
-SCORE: 11/12
+SCORE: 12/12
 - Copying objects
-SCORE: 11/12
+SCORE: 12/12
 - Deinitializers
-SCORE: 10/12
+SCORE: 12/12
 - Mutability
-SCORE: 8/12
+SCORE: 12/12
 - Classes: Summary
 SCORE: 6/6
 
 ## Day 11 – protocols, extensions, and protocol extensions
 
 - Protocols
-SCORE: 8/12
+SCORE: 12/12
 - Protocol inheritance
-SCORE: 8/12
+SCORE: 12/12
 - Extensions
-SCORE: 7/12
+SCORE: 12/12
 - Protocol extensions
-SCORE: 10/12
+SCORE: 12/12
 - Protocol-oriented programming
-SCORE: 5/6
+SCORE: 6/6
 - Protocols and extensions: Summary
-SCORE: 10/12
+SCORE: 12/12
 
 ## Day 12 – optionals, unwrapping, and typecasting
 
 - Handling missing data
-SCORE: 5/6
+SCORE: 6/6
 - Unwrapping optionals
-SCORE: 8/12
+SCORE: 12/12
 - Unwrapping with guard
-SCORE: 10/12
+SCORE: 12/12
 - Force unwrapping
-SCORE: 4/6
+SCORE: 6/6
 - Implicitly unwrapped optionals
 SCORE: 6/6
 - Nil coalescing
-SCORE: 10/12
+SCORE: 12/12
 - Optional chaining
-SCORE: 8/12
+SCORE: 12/12
 - Optional try
-SCORE: 5/6
+SCORE: 6/6
 - Failable initializers
-SCORE: 9/12
+SCORE: 12/12
 - Typecasting
-SCORE: 11/12
+SCORE: 12/12
 - Optionals: Summary
-SCORE: 10/12
+SCORE: 12/12
 
 ## Day 13 – Swift review, day one
 
@@ -349,3 +349,81 @@ SCORE: 10/12
 - Review for Project 5: Word Scramble
 - Project 5: Word Scramble
   SCORE: 11/12
+
+## Day 30 – Project 6, part one
+
+- Setting up
+- Advanced Auto Layout
+- Auto Layout in code: addConstraints() with Visual Format Language
+
+## Day 31 – Project 6, part two
+
+- Auto Layout metrics and priorities: constraints(withVisualFormat:)
+- Auto Layout anchors
+- Wrap up
+- Review for Project 6: Auto Layout
+- Project 6: Auto Layout
+  SCORE: 8/12
+  
+## Day 32 – Milestone: Projects 4-6
+
+- What you learned
+- Key points
+- Challenge
+
+## Day 33 – Project 7, part one
+
+- Setting up
+- Creating the basic UI: UITabBarController
+- Parsing JSON using the Codable protocol
+
+## Day 34 – Project 7, part two
+
+- Rendering a petition: loadHTMLString
+- Finishing touches: didFinishLaunchingWithOptions
+
+## Day 35 – Project 7, part three
+
+- Wrap up
+- Review for Project 7: Whitehouse Petitions
+
+## Day 36 – Project 8, part one
+
+- Setting up
+- Building a UIKit user interface programmatically
+
+## Day 37 – Project 8, part two
+
+## Day 38 – Project 8, part three
+
+## Day 39 – Project 9, part one
+
+## Day 40 – Project 9, part two
+
+## Day 41 – Milestone: Projects 7-9
+
+## Day 42 – Project 10, part one
+
+## Day 43 – Project 10, part two
+
+## Day 44 – Project 10, part three
+
+## Day 45 – Project 11, part one
+
+## Day 46 – Project 11, part two
+
+## Day 47 – Project 11, part three
+
+## Day 48 – Project 12, part one
+
+## Day 49 – Project 12, part two
+
+## Day 50 – Milestone: Projects 10-12
+
+## Day 51 – Expanding your horizons
+
+## Day 52 – Project 13, part one
+
+## Day 53 – Project 13, part two
+
+## Day 54 – Project 13, part three
