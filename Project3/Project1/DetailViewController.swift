@@ -2,29 +2,30 @@
 //  DetailViewController.swift
 //  Project1
 //
-//  Created by Ильдар Нигметзянов on 16/07/2019.
-//  Copyright © 2019 Ildar Nigmetzyanov. All rights reserved.
+//  Created by Ильдар Нигметзянов on 26/08/2019.
+//  Copyright © 2019 Nigmetzyanov Ildar. All rights reserved.
 //
 
 import UIKit
 
 class DetailViewController: UIViewController {
     @IBOutlet var imageView: UIImageView!
-    var selectedImage : String?
-    var numberOfPicture: Int?
-    var totalCount : Int?
+    var selectedImage: String?
+    var number: String?
+    var allNumber: String?
     
     override func viewDidLoad() {
         super.viewDidLoad()
-         // Do any additional setup after loading the view.
-        title = "Picture \(numberOfPicture!) of \(totalCount!)"
-        navigationItem.largeTitleDisplayMode = .never
+        title = "Picture \(number!) of \(allNumber!)"
         
         navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(shareTapped))
+        navigationItem.largeTitleDisplayMode = .never
         
-        if let imageToLoad = selectedImage{
-            imageView.image = UIImage(named: imageToLoad)
+        if let imageToLoad = selectedImage {
+            imageView.image = UIImage(named:imageToLoad)
         }
+        
+        // Do any additional setup after loading the view.
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -34,34 +35,18 @@ class DetailViewController: UIViewController {
     
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
-        navigationController?.hidesBarsOnTap = false
+        navigationController?.hidesBarsOnTap = false 
     }
- 
+   
     @objc func shareTapped() {
-        guard let image = imageView.image?.jpegData(compressionQuality:0.8) else{
-            print ("No image found")
+        guard let image = imageView.image?.jpegData(compressionQuality: 0.8) else {
+            print("No image found")
             return
         }
         
-        guard let text = selectedImage else {
-            print("No text")
-            return
-        }
-        
-        let vc = UIActivityViewController(activityItems: [image,text], applicationActivities: [])
+        let vc = UIActivityViewController(activityItems: [image,selectedImage ?? "No name"],applicationActivities: [])
         vc.popoverPresentationController?.barButtonItem = navigationItem.rightBarButtonItem
-        present(vc,animated:true)
+        present(vc,animated: true)
     }
     
-    
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
-
 }

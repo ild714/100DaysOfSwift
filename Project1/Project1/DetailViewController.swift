@@ -2,39 +2,39 @@
 //  DetailViewController.swift
 //  Project1
 //
-//  Created by Ильдар Нигметзянов on 16/07/2019.
-//  Copyright © 2019 Ildar Nigmetzyanov. All rights reserved.
+//  Created by Ильдар Нигметзянов on 26/08/2019.
+//  Copyright © 2019 Nigmetzyanov Ildar. All rights reserved.
 //
 
 import UIKit
 
 class DetailViewController: UIViewController {
     @IBOutlet var imageView: UIImageView!
-    var selectedImage : String?
-    var numberOfPicture: Int?
-    var totalCount : Int?
+    var selectedImage: String?
+    var number: String?
+    var allNumber: String?
     
     override func viewDidLoad() {
         super.viewDidLoad()
-         // Do any additional setup after loading the view.
-        if let imageToLoad = selectedImage{
-            imageView.image = UIImage(named: imageToLoad)
+        title = "Picture \(number!) of \(allNumber!)"
+        navigationItem.largeTitleDisplayMode = .never
+        
+        if let imageToLoad = selectedImage {
+            imageView.image = UIImage(named:imageToLoad)
         }
+        
+        // Do any additional setup after loading the view.
     }
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         navigationController?.hidesBarsOnTap = true
-        
-        title = "Picture \(numberOfPicture!) of \(totalCount!)"
-        navigationItem.largeTitleDisplayMode = .never
     }
     
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
-        navigationController?.hidesBarsOnTap = false
+        navigationController?.hidesBarsOnTap = false 
     }
- 
     /*
     // MARK: - Navigation
 
