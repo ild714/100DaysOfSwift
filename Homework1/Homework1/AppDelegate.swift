@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Project5
+//  Homework1
 //
-//  Created by Ильдар Нигметзянов on 07/09/2019.
+//  Created by Ильдар Нигметзянов on 29/08/2019.
 //  Copyright © 2019 Nigmetzyanov Ildar. All rights reserved.
 //
 
