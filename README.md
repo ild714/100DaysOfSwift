@@ -229,7 +229,7 @@ SCORE: 12/12
 - Optionals: Summary
 SCORE: 12/12
 
-## Day 13 – Swift review, day one
+## Day 13 
 
 - Variables and constants
 - Types of Data
@@ -242,7 +242,7 @@ SCORE: 12/12
 - Switch case
 
 
-## Day 14 – Swift review, day two
+## Day 14
 
 - Functions
 - Optionals
@@ -251,7 +251,7 @@ SCORE: 12/12
 - Structs
 - Classes
 
-## Day 15 – Swift review, day three
+## Day 15
 
 - Properties
 - Static properties and methods
@@ -259,44 +259,44 @@ SCORE: 12/12
 - Polymorphism and typecasting
 - Closures
 
-## Day 16 - PROJECT 1, PART ONE
+## Day 16
 
 - Setting up
 - Listing images with FileManager
 - Designing our interface
 
-## Day 17 - PROJECT 1, PART TWO
+## Day 17
 
 - Building a detail screen
 - Loading images with UIImage
 - Final tweaks: hidesBarsOnTap, safe area margins
 
-## Day 18 - PROJECT 1, PART THREE
+## Day 18
 
 - Wrap up
 - Review for Project 1: Storm Viewer
 - Project 1: Storm Viewer
   SCORE: 9/12
 
-## Day 19 – Project 2, part one
+## Day 19
 
 - Setting up
 - Designing your layout
 - Making the basic game work: UIButton and CALayer
 
-## Day 20 – Project 2, part two
+## Day 20
 
 - Guess which flag: random numbers
 - From outlets to actions: creating an IBAction
 
-## Day 21 – Project 2, part three
+## Day 21
 
 - Wrap up
 - Review for Project 2: Guess the Flag
 - Project 2: Guess the Flag
   SCORE: 10/12
 
-## Day 22 – Project 3
+## Day 22
 
 - About technique projects
 - UIActivityViewController explained
@@ -305,24 +305,24 @@ SCORE: 12/12
 - Project 3: Social media
   SCORE: 9/12
 
-## Day 23 – Milestone: Projects 1-3
+## Day 23
 
 - What you learned
 - Key points
 - Challenge
 
-## Day 24 – Project 4, part one
+## Day 24
 
 - Setting up
 - Creating a simple browser with WKWebView
 - Choosing a website: UIAlertController action sheets
 
-## Day 25 – Project 4, part two
+## Day 25
 
 - Monitoring page loads: UIToolbar and UIProgressView
 - Refactoring for the win
 
-## Day 26 – Project 4, part three
+## Day 26
 
 - Wrap up
 - Review for Project 4: Easy Browser
@@ -330,33 +330,33 @@ SCORE: 12/12
   SCORE: 11/12
 
 
-## Day 27 – Project 5, part one
+## Day 27
 
 - Capture lists in Swift: what’s the difference between weak, strong, and unowned references?
 - Setting up
 - Reading from disk: contentsOfFile
 - Pick a word, any word: UIAlertController
 
-## Day 28 – Project 5, part two
+## Day 28 
 
 - Prepare for submission: lowercased() and IndexPath
 - Checking for valid answers
 - Or else what?
 
-## Day 29 – Project 5, part three
+## Day 29
 
 - Wrap up
 - Review for Project 5: Word Scramble
 - Project 5: Word Scramble
   SCORE: 11/12
 
-## Day 30 – Project 6, part one
+## Day 30 
 
 - Setting up
 - Advanced Auto Layout
 - Auto Layout in code: addConstraints() with Visual Format Language
 
-## Day 31 – Project 6, part two
+## Day 31
 
 - Auto Layout metrics and priorities: constraints(withVisualFormat:)
 - Auto Layout anchors
@@ -365,65 +365,225 @@ SCORE: 12/12
 - Project 6: Auto Layout
   SCORE: 8/12
   
-## Day 32 – Milestone: Projects 4-6
+## Day 32
 
 - What you learned
 - Key points
 - Challenge
 
-## Day 33 – Project 7, part one
+## Day 33
 
 - Setting up
 - Creating the basic UI: UITabBarController
 - Parsing JSON using the Codable protocol
 
-## Day 34 – Project 7, part two
+## Day 34
 
 - Rendering a petition: loadHTMLString
 - Finishing touches: didFinishLaunchingWithOptions
 
-## Day 35 – Project 7, part three
+## Day 35
 
 - Wrap up
 - Review for Project 7: Whitehouse Petitions
 
-## Day 36 – Project 8, part one
+## Day 36
 
 - Setting up
 - Building a UIKit user interface programmatically
 
-## Day 37 – Project 8, part two
+## Day 37
 
-## Day 38 – Project 8, part three
+- Loading a level and adding button targets
+- It's play time: firstIndex(of:) and joined()
+- Property observers: didSet
 
-## Day 39 – Project 9, part one
+## Day 38
 
-## Day 40 – Project 9, part two
+- Wrap up
+- Review for Project 8: 7 Swifty Words
 
-## Day 41 – Milestone: Projects 7-9
+## Day 39
 
-## Day 42 – Project 10, part one
+- Setting up
+- Why is locking the UI bad?
+- GCD 101: async()
+- Back to the main thread: DispatchQueue.main
+- Easy GCD using performSelector(inBackground:)
 
-## Day 43 – Project 10, part two
+## Day 40
 
-## Day 44 – Project 10, part three
+- Wrap up
+- Review for Project 9: Grand Central Dispatch
 
-## Day 45 – Project 11, part one
+## Day 41
 
-## Day 46 – Project 11, part two
+- What you learned
+- Key points
+- Challenge
 
-## Day 47 – Project 11, part three
+## Day 42
 
-## Day 48 – Project 12, part one
+- Setting up
+- Designing UICollectionView cells
+- UICollectionView data sources
 
-## Day 49 – Project 12, part two
+## Day 43
 
-## Day 50 – Milestone: Projects 10-12
+- Importing photos with UIImagePickerController
+- Custom subclasses of NSObject
+- Connecting up the people
 
-## Day 51 – Expanding your horizons
+## Day 44
 
-## Day 52 – Project 13, part one
+- Wrap up
+- Review for Project 10: Grand Central Dispatch
 
-## Day 53 – Project 13, part two
+## Day 45 
 
-## Day 54 – Project 13, part three
+- Setting up
+- Falling boxes: SKSpriteNode, UITouch, SKPhysicsBody
+- Bouncing balls: circleOfRadius
+
+## Day 46
+
+- Spinning slots: SKAction
+- Collision detection: SKPhysicsContactDelegate
+- Scores on the board: SKLabelNode
+
+## Day 47 
+
+- Special effects: SKEmitterNode
+- Wrap up
+- Review for Project 11: Pachinko
+
+## Day 48
+
+- Setting up
+- Reading and writing basics: UserDefaults
+- Fixing Project 10: NSCoding
+
+## Day 49 
+
+- Fixing Project 10: Codable
+- Wrap up
+- Review for Project 12: UserDefaults
+
+## Day 50 
+
+- What you learned
+- Key points
+- Challenge
+
+## Day 51 
+
+- Elements of Functional Programming
+- Teaching Swift at Scale
+
+## Day 52
+
+- Setting up
+- Designing the interface
+- Importing a picture
+
+## Day 53
+
+- Applying filters: CIContext, CIFilter
+- Saving to the iOS photo library
+
+## Day 54
+
+- Wrap up
+- Review for Project 13: Instafilter
+
+## Day 55
+
+- Setting up
+- Getting up and running: SKCropNode
+- Penguin, show thyself: SKAction moveBy(x:y:duration:)
+
+## Day 56
+
+- Whack to win: SKAction sequences
+- Wrap up
+- Review for Project 14: Whack-a-Penguin
+
+## Day 57
+
+- Setting up
+- Preparing for action
+- Switch, case, animate: animate(withDuration:)
+- Transform: CGAffineTransform
+
+## Day 58
+
+- Wrap up
+- Review for Project 15: Animation
+
+## Day 59
+
+- What you learned
+- Key points
+- Challenge
+
+## Day 60
+
+- Setting up
+- Up and running with MapKit
+- Annotations and accessory views: MKPinAnnotationView
+
+## Day 61 
+
+- Wrap up
+- Review for Project 16: Capital Cities
+
+## Day 62
+
+- Setting up
+- Space: the final frontier
+- Bring on the enemies: linearDamping, angularDamping
+- Making contact: didBegin()
+
+## Day 63
+
+- Wrap up
+- Review for Project 17: Space Race
+
+## Day 64
+
+- Setting up
+- Basic Swift debugging using print()
+- Debugging with assert()
+- Debugging with breakpoints
+- View debugging
+
+## Day 65
+
+- Wrap up
+- Review for Project 18: Debugging
+
+## Day 66
+
+- What you learned
+- Key points
+- Challenge
+
+## Day 67
+
+- Setting up
+- Making a shell app
+- Adding an extension: NSExtensionItem
+- What do you want to get?
+
+## Day 68
+
+- Establishing communication
+- Editing multiline text with UITextView
+- Fixing the keyboard: NotificationCenter
+
+## Day 69
+
+- Wrap up
+- Review for Project 19: JavaScript Injection
+
+## Day 70
