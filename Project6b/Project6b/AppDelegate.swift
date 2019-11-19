@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Project6b
 //
-//  Created by Ильдар Нигметзянов on 08/09/2019.
-//  Copyright © 2019 Nigmetzyanov Ildar. All rights reserved.
+//  Created by Ильдар Нигметзянов on 26.10.2019.
+//  Copyright © 2019 Learning Swift. All rights reserved.
 //
 
 import UIKit

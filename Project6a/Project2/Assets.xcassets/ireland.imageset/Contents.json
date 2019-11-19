@@ -2,6 +2,7 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "ireland.png",
       "scale" : "1x"
     },
     {

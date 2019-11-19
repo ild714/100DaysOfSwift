@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project17test/GameScene.swift"
+            timestampString = "595686768.717751"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project17test.GameScene.globalLocation.getter : __C.CGPoint"
+                  moduleName = "Project17test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ildarnigmetzanov/Desktop/Project17test/Project17test/GameScene.swift"
+                  timestampString = "595685199.742893"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "115">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project17test.GameScene.globalLocation.setter : __C.CGPoint"
+                  moduleName = "Project17test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ildarnigmetzanov/Desktop/Project17test/Project17test/GameScene.swift"
+                  timestampString = "595685199.748656"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project17test.GameScene.globalLocation.modify : __C.CGPoint"
+                  moduleName = "Project17test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ildarnigmetzanov/Desktop/Project17test/Project17test/GameScene.swift"
+                  timestampString = "595685199.751304"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project17test.GameScene.globalLocation.modify : __C.CGPoint with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Project17test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ildarnigmetzanov/Desktop/Project17test/Project17test/GameScene.swift"
+                  timestampString = "595685199.757053"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project17test.GameScene.init(size: __C.CGSize) -&gt; Project17test.GameScene"
+                  moduleName = "Project17test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ildarnigmetzanov/Desktop/Project17test/Project17test/GameScene.swift"
+                  timestampString = "595685199.785998"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "846">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project17test.GameScene.init() -&gt; Project17test.GameScene"
+                  moduleName = "Project17test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ildarnigmetzanov/Desktop/Project17test/Project17test/GameScene.swift"
+                  timestampString = "595685199.798679"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "813">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project17test.GameScene.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Project17test.GameScene&gt;"
+                  moduleName = "Project17test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ildarnigmetzanov/Desktop/Project17test/Project17test/GameScene.swift"
+                  timestampString = "595685199.8358721"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "837">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project17test/GameScene.swift"
+            timestampString = "595686768.7183321"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "touchesMoved(_:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project17test/GameScene.swift"
+            timestampString = "595686768.718784"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "touchesMoved(_:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
